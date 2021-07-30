@@ -1,6 +1,6 @@
 # Customer reviews with slider
 
-#### This project was developed with only HTML and CSS.
+#### This project was developed with HTML, CSS and JavaScript.
 
 ![Slider](https://i.imgur.com/3YLAuTp.png)
 
